@@ -1,8 +1,8 @@
 body{
     background-color: rgb(222, 225, 228);
-    background-image: url(img/Backgroud.jpg);
+    background-image: url(img/img1.jpg);
     background-repeat: no-repeat;
-    background-size:contain;
+    background-size:cover;
 }
 
 .header{
